@@ -1,11 +1,8 @@
-## README.md template (copy/paste)
-
-
 # Flask on Cloud VM (Assignment 2)
 
 ## Student Info
-- Name:  
-- Cloud Provider:  
+- Name: Carson Chin  
+- Cloud Provider: Google Cloud  
 
 ## Video recording: 
 - Zoom/Loom: 
